@@ -23,9 +23,9 @@
 #### ping from bldg 3 to bldg 2
 ![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/disFW-103.png)
 #### check ping bldg 2
-![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/lin-b2.png)
+![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/b2-ping.png)
 #### check ping bldg 3
-![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/lin-b3.png)
+![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/b3-ping.png)
 #### Show IP NAT translations
-![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/sh-nat.png)
+![](https://github.com/Amoree16/Homelab/blob/main/Screenshots/HomeLab4/exFW/sh-nat2.png)
 
